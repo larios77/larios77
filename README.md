@@ -27,12 +27,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://www.instagram.com/frankie_larios7/" height="35" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/in/franky-yaset-benda%C3%B1a-larios-292603215/" height="35" alt="linkedin logo"  />
-</div>
-
 ###
